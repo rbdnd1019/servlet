@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="RepositorySelectionPage.lastRepository" value="http://np.woongsun.com:81/svn/java"/>
+	<item key="DirectorySelectionPage.lastParent_http://np.wdkim.com:81/svn/java" value=""/>
+	<item key="DirectorySelectionPage.lastParent_http://np.woongsun.com:81/svn/java" value=""/>
+	<item key="CommitDialog.location.x" value="373"/>
+	<item key="CommitDialog.location.y" value="0"/>
+	<item key="CommitDialog.size.x" value="1174"/>
+	<item key="CommitDialog.size.y" value="1040"/>
+	<item key="CommitDialog.weights.0" value="500"/>
+	<item key="CommitDialog.weights.1" value="500"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Revision" value="182"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Date" value="455"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Author" value="363"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Comment" value="908"/>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="http://np.woongsun.com:81/svn/java"/>
+		</list>
+	</section>
+	<section name="CommitWizard">
+		<item key="VWeight1" value="500"/>
+		<item key="VWeight2" value="500"/>
+		<item key="ShowCompare" value="false"/>
+	</section>
+</section>
